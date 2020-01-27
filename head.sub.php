@@ -44,7 +44,7 @@ header("Pragma: no-cache"); // HTTP/1.0
 <meta name="keywords" content="파주 작은 갤러리, 이운안, 파주작은갤러리, 파주 사진">
 <meta name="naver-site-verification" content="097a7e75a231fe3ea6d5da505e4ee489b1ffee62"/>
 <meta name="description" content="파주 작은 갤러리는 이운안 관장이 운영하고 있으며, 파주시 법원리에 위치하고 있다, 사진 강좌도 진행한다">
-<title>파주 작은 갤러리</title>
+
 
 <?php
 if (G5_IS_MOBILE) {
@@ -91,7 +91,10 @@ var g5_admin_url = "<?php echo G5_ADMIN_URL; ?>";
 <script src="<?php echo G5_JS_URL ?>/common.js?ver=<?php echo G5_JS_VER; ?>"></script>
 <script src="<?php echo G5_JS_URL ?>/wrest.js?ver=<?php echo G5_JS_VER; ?>"></script>
 <script src="<?php echo G5_JS_URL ?>/placeholders.min.js"></script>
-<link rel="stylesheet" href="<?php echo G5_JS_URL ?>/font-awesome/css/font-awesome.min.css">
+<link rel="shortcut icon" href="<?php echo G5_IMG_URL ?>/fav.jpg" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="16x16" href="<?php echo G5_IMS_URL ?>/fav.jpg">
+<title>파주 작은 갤러리</title>
+
 <?php
 if(G5_IS_MOBILE) {
     echo '<script src="'.G5_JS_URL.'/modernizr.custom.70111.js"></script>'.PHP_EOL; // overflow scroll 감지
