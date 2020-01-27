@@ -6,7 +6,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 ?>
 
 <style>
-    .intro_p {width:1000px; height:1000px;margin:50px auto;}
+    .intro_p {height:1000px;margin:50px auto;}
 </style>
 
 <div class="intro_p">

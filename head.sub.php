@@ -91,6 +91,7 @@ var g5_admin_url = "<?php echo G5_ADMIN_URL; ?>";
 <script src="<?php echo G5_JS_URL ?>/common.js?ver=<?php echo G5_JS_VER; ?>"></script>
 <script src="<?php echo G5_JS_URL ?>/wrest.js?ver=<?php echo G5_JS_VER; ?>"></script>
 <script src="<?php echo G5_JS_URL ?>/placeholders.min.js"></script>
+<link rel="stylesheet" href="<?php echo G5_JS_URL ?>/font-awesome/css/font-awesome.min.css">
 <link rel="shortcut icon" href="<?php echo G5_IMG_URL ?>/fav.jpg" type="image/x-icon">
 <link rel="icon" type="image/png" sizes="16x16" href="<?php echo G5_IMS_URL ?>/fav.jpg">
 <title>파주 작은 갤러리</title>
