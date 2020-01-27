@@ -36,8 +36,7 @@ if(defined('G5_THEME_PATH')) {
 
     <div id="ft_copy">
 
-    
-        Copyright &copy; <b>파주 작은 Gallery.</b> All rights reserved.<br>
+           Copyright &copy; <b>파주 작은 Gallery.</b> All rights reserved.<br>
 
     </div>
 
