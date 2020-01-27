@@ -17,7 +17,11 @@ if(defined('G5_THEME_PATH')) {
 include_once(G5_MOBILE_PATH.'/head.php');
 
 ?>
+<style>#m_main{width:420px;margin:20px auto;}</style>
 
+<div id="m_main">
+    <img src="<?php echo G5_IMG_URL ?>/main_m.png" alt="모바일 메인 사진">
+</div>
 
 <?php 
 
