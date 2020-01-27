@@ -40,7 +40,12 @@ header("Pragma: no-cache"); // HTTP/1.0
 <!doctype html>
 <html lang="ko">
 <head>
-<meta charset="utf-8">
+<meta charset="utf-8">  
+<meta name="keywords" content="파주 작은 갤러리, 이운안, 파주작은갤러리, 파주 사진">
+<meta name="naver-site-verification" content="097a7e75a231fe3ea6d5da505e4ee489b1ffee62"/>
+<meta name="description" content="파주 작은 갤러리는 이운안 관장이 운영하고 있으며, 파주시 법원리에 위치하고 있다, 사진 강좌도 진행한다">
+<title>파주 작은 갤러리</title>
+
 <?php
 if (G5_IS_MOBILE) {
     echo '<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10,user-scalable=yes">'.PHP_EOL;
