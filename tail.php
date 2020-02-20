@@ -43,7 +43,7 @@ if (G5_IS_MOBILE) {
             <a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=provision">서비스이용약관</a>
             <a href="<?php echo get_device_change_url('https://pajugallery.kr/index.php?device=mobile'); ?>">모바일버전</a>
         </div>
-        <div id="ft_catch"><img src="<?php echo G5_IMG_URL; ?>/logo.png" alt="<?php echo G5_VERSION ?>"></div>
+        <div id="ft_catch"><img src="<?php echo G5_IMG_URL; ?>/logo.png2" alt="<?php echo G5_VERSION ?>"></div>
         <div id="ft_copy">Copyright &copy; <b>파주 작은 Gallery.</b> All rights reserved.</div>
     </div>
     
