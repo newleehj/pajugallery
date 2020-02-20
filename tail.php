@@ -11,6 +11,9 @@ if (G5_IS_MOBILE) {
     return;
 }
 ?>
+<style>
+    #ft_catch>img {width:200px;}
+</style>
 
     </div>
     <div id="aside">

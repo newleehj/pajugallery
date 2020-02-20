@@ -39,7 +39,9 @@ include_once(G5_LIB_PATH.'/connect.lib.php');
 include_once(G5_LIB_PATH.'/popular.lib.php');
 
 ?>
-
+<style>
+    #logo>a>img{width:200px;}
+</style>
 
 
 <!-- 상단 시작 { -->
