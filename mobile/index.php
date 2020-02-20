@@ -41,7 +41,7 @@ echo latest('pic_basic', 'gallery', 4, 23);
 echo latest('pic_basic', 'gallery_all', 4, 23);
 echo latest('pic_basic', 'g_news', 4, 23);
 echo latest('pic_basic', 's_news', 4, 23);
-echo latest('basic', 'notice', 5, 23);
+echo latest('basic', 'sroty', 4, 23);
 
 ?>
 
